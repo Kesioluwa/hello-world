@@ -16,15 +16,9 @@ I am Kesioluwa Ladi-Akinyemi and I am 21 years old, I have 4 siblings and I love
 
 - VScode Plugins
 
-
 ## Part 3
 - Learning html and (CSS) Cascading Stylesheet
 
 - JavaScript 
 
 - PHP 
-
-## Part 4
-- Continous Integration/Continous delivery
-- Docker
-- Server management
