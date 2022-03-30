@@ -2,8 +2,7 @@
 
 - Terminal
 - Extensions (Search and Install extensions)
-- Menus (how to open files, workspaces, searching for files)
-
+- Menus (how to open files, workspaces, searching for files
 ## Terminal
 - Used to manage whatever youre working on (like a playground)
 
@@ -14,6 +13,7 @@
 - ls (the same as dir to list files and folders)
 - rmdir(used to remove files from directory)
 - fsutil(fsutil file createnew Assignment1.md 1000)
+- cp (used to copy files or folders)
 
 ## Extensions
 - vscode share
