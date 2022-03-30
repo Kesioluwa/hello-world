@@ -10,11 +10,11 @@ I am Kesioluwa Ladi-Akinyemi and I am 21 years old, I have 4 siblings and I love
 
 - Git Commannds
 ## Part 2
-- VScode  
+- vscode  
 
-- VScode basics
+- vscode basics
 
-- VScode Plugins
+- vscode Plugins
 
 
 ## Part 3
@@ -28,3 +28,4 @@ I am Kesioluwa Ladi-Akinyemi and I am 21 years old, I have 4 siblings and I love
 - Continous Integration/Continous delivery
 - Docker
 - Server management
+
