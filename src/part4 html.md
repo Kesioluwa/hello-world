@@ -55,5 +55,5 @@ Visit "html.spec" for more information about html attributes
  - < summary >
  - < details >
  - < time > - an inline element that is wrapped around some piece os content containing a time, usually wrapped inside a < datetime > markup.
- < fig > - used to call attention to some sort of mini image or picture often with a caption instead of just using the div
+ -  < fig > - used to call attention to some sort of mini image or picture often with a caption instead of just using the div
  
